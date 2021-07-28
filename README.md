@@ -8,3 +8,4 @@
 - CSS
 - Normalize
 - JS
+- Плагин Swiper.js
